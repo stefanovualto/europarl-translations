@@ -105,6 +105,7 @@
     "download_error_message": "<p>Une erreur s’est produite lors du téléchargement. Veuillez attendre quelques minutes avant de réessayer.</p>",
     "download_new_download": "Nouveau téléchargement",
     "download_content_id": "Veuillez copier le numéro d'identification de votre téléchargement, il vous sera utile en cas de problème:",
+    "form_disabled": "",
     "sharing_share_label": "Share",
     "sharing_embed_label": "Embed",
     "embed_autoplay_label": "Autoplay",

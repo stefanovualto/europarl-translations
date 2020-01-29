@@ -105,6 +105,7 @@
     "download_error_message": "<p>Seħħ żball waqt it-tniżżil tal-fajl; stenna ftit minuti u erġa' pprova.</p>",
     "download_new_download": "Niżżel video ieħor",
     "download_content_id": "Ħu nota tal-ID tal-fajl li niżżilt; ikollok bżonnu f'każ ta' problema:",
+    "form_disabled": "",
     "sharing_share_label": "Share",
     "sharing_embed_label": "Embed",
     "embed_autoplay_label": "Autoplay",

@@ -105,6 +105,7 @@
     "download_error_message": "<p>Se ha producido un error al solicitar la descarga: espere unos minutos e inténtelo de nuevo.</p>",
     "download_new_download": "Nueva descarga",
     "download_content_id": "Tome nota del ID de descarga, pues lo necesitará si se produce algún problema:",
+    "form_disabled": "",
     "sharing_share_label": "Share",
     "sharing_embed_label": "Embed",
     "embed_autoplay_label": "Autoplay",

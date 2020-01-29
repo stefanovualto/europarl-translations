@@ -105,6 +105,7 @@
     "download_error_message": "<p>Възникна грешка при искането за изтегляне, моля, изчакайте няколко минути и опитайте отново.</p>",
     "download_new_download": "Ново изтегляне",
     "download_content_id": "Моля, отбележете идентификационния номер на Вашето изтегляне, ще имате нужда от него, ако възникне проблем:",
+    "form_disabled": "",
     "sharing_share_label": "Share",
     "sharing_embed_label": "Embed",
     "embed_autoplay_label": "Autoplay",

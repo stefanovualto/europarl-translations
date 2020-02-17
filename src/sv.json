@@ -14,6 +14,7 @@
     "menu_metadata": "Metadatameny",
     "menu_close": "Stäng menyn",
     "close_download_confirmation": "",
+    "close_download_error": "",
     "aria_label_live": "Direktsändning",
     "aria_label_resume_live": "Återuppta direktsändningen",
     "aria_label_play": "Spela",

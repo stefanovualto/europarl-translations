@@ -14,6 +14,7 @@
     "menu_metadata": "Metadatavalikko",
     "menu_close": "Sulje valikko",
     "close_download_confirmation": "",
+    "close_download_error": "",
     "aria_label_live": "Suora lähetys",
     "aria_label_resume_live": "Jatka suoraa lähetystä",
     "aria_label_play": "Käynnistä",

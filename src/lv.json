@@ -13,6 +13,7 @@
     "button_resume_live": "ATSĀKT TIEŠRAIDI",
     "menu_metadata": "Metadatu izvēlne",
     "menu_close": "Aizvērt izvēlni",
+    "close_download_confirmation": "",
     "aria_label_live": "Tiešraide",
     "aria_label_resume_live": "Atsākt tiešraidi",
     "aria_label_play": "Atskaņot",

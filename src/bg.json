@@ -13,6 +13,7 @@
     "button_resume_live": "ПРОДЪЛЖАВАНЕ НА ПРЕДАВАНЕТО НА ЖИВО",
     "menu_metadata": "Меню за метаданни",
     "menu_close": "Затваряне на менюто",
+    "close_download_confirmation": "",
     "aria_label_live": "На живо",
     "aria_label_resume_live": "Продължаване на предаването на живо",
     "aria_label_play": "Play",

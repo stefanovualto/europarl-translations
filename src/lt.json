@@ -13,6 +13,7 @@
     "button_resume_live": "TĘSTI TIESIOGINĘ TRANSLIACIJĄ",
     "menu_metadata": "Metaduomenų meniu",
     "menu_close": "Uždaryti meniu",
+    "close_download_confirmation": "",
     "aria_label_live": "Tiesiogiai",
     "aria_label_resume_live": "Tęsti tiesioginę transliaciją",
     "aria_label_play": "Paleisti",

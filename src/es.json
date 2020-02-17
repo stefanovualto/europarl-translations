@@ -13,6 +13,7 @@
     "button_resume_live": "VOLVER A EMISIÓN EN DIRECTO",
     "menu_metadata": "Menú de metadatos",
     "menu_close": "Cerrar el menú",
+    "close_download_confirmation": "",
     "aria_label_live": "En vivo",
     "aria_label_resume_live": "Volver a la emisión en directo",
     "aria_label_play": "Reproducir",

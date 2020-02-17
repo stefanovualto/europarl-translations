@@ -13,6 +13,7 @@
     "button_resume_live": "ΣΥΝΈΧΙΣΗ ΖΩΝΤΑΝΉΣ ΜΕΤΆΔΟΣΗΣ",
     "menu_metadata": "Μενού μεταδεδομένων",
     "menu_close": "Κλείσιμο μενού",
+    "close_download_confirmation": "",
     "aria_label_live": "Ζωντανή μετάδοση",
     "aria_label_resume_live": "Συνέχιση ζωντανής μετάδοσης",
     "aria_label_play": "Αναπαραγωγή",

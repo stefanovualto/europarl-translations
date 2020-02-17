@@ -13,6 +13,7 @@
     "button_resume_live": "NASTAVI PRIJENOS UŽIVO",
     "menu_metadata": "Izbornik metapodataka",
     "menu_close": "Zatvori izbornik",
+    "close_download_confirmation": "",
     "aria_label_live": "Uživo",
     "aria_label_resume_live": "Nastavi prijenos uživo",
     "aria_label_play": "Reproduciraj",

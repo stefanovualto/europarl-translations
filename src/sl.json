@@ -13,6 +13,7 @@
     "button_resume_live": "NADALJUJ PRENOS V ŽIVO",
     "menu_metadata": "Meni z metapodatki",
     "menu_close": "Zapri meni",
+    "close_download_confirmation": "",
     "aria_label_live": "V živo",
     "aria_label_resume_live": "Nadaljuj prenos v živo",
     "aria_label_play": "Predvajaj",

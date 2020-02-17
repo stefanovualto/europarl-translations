@@ -13,6 +13,7 @@
     "button_resume_live": "LIVESTREAM HERVATTEN",
     "menu_metadata": "Metadatamenu",
     "menu_close": "Menu sluiten",
+    "close_download_confirmation": "",
     "aria_label_live": "Rechtstreeks",
     "aria_label_resume_live": "Livestream hervatten",
     "aria_label_play": "Afspelen",

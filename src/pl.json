@@ -13,6 +13,7 @@
     "button_resume_live": "WRÓĆ DO TRANSMISJI NA ŻYWO",
     "menu_metadata": "Menu Metadane",
     "menu_close": "Zamknij menu",
+    "close_download_confirmation": "",
     "aria_label_live": "Na żywo",
     "aria_label_resume_live": "Wróć do transmisji na żywo",
     "aria_label_play": "Odtwarzaj",

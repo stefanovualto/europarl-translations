@@ -13,6 +13,7 @@
     "button_resume_live": "FORTSÆT LIVE-VISNING",
     "menu_metadata": "Metadata-menu",
     "menu_close": "Luk menu",
+    "close_download_confirmation": "",
     "aria_label_live": "Direkte",
     "aria_label_resume_live": "Fortsæt live-visning",
     "aria_label_play": "Afspil",

@@ -13,6 +13,7 @@
     "button_resume_live": "RELUARE TRANSMISIE ÎN DIRECT",
     "menu_metadata": "Meniu metadate",
     "menu_close": "Închidere meniu",
+    "close_download_confirmation": "",
     "aria_label_live": "În direct",
     "aria_label_resume_live": "Reluare transmisie în direct",
     "aria_label_play": "Redare",

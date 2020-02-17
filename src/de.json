@@ -13,6 +13,7 @@
     "button_resume_live": "DIREKTÜBERTRAGUNG FORTSETZEN",
     "menu_metadata": "Metadaten-Menü",
     "menu_close": "Menü einklappen",
+    "close_download_confirmation": "",
     "aria_label_live": "Live",
     "aria_label_resume_live": "Direktübertragung fortsetzen",
     "aria_label_play": "Abspielen",

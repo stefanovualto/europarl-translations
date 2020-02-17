@@ -13,6 +13,7 @@
     "button_resume_live": "RESUME LIVE",
     "menu_metadata": "Metadata Menu",
     "menu_close": "Close Menu",
+    "close_download_confirmation": "",
     "aria_label_live": "Live",
     "aria_label_resume_live": "Resume Live",
     "aria_label_play": "Play",

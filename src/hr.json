@@ -15,6 +15,7 @@
     "menu_close": "Zatvori izbornik",
     "close_download_confirmation": "",
     "close_download_error": "",
+    "spacebar": "",
     "aria_label_live": "Uživo",
     "aria_label_resume_live": "Nastavi prijenos uživo",
     "aria_label_play": "Reproduciraj",

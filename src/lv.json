@@ -15,6 +15,7 @@
     "menu_close": "Aizvērt izvēlni",
     "close_download_confirmation": "",
     "close_download_error": "",
+    "spacebar": "",
     "aria_label_live": "Tiešraide",
     "aria_label_resume_live": "Atsākt tiešraidi",
     "aria_label_play": "Atskaņot",

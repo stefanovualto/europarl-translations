@@ -15,6 +15,7 @@
     "menu_close": "Fermer le menu",
     "close_download_confirmation": "",
     "close_download_error": "",
+    "spacebar": "",
     "aria_label_live": "En direct",
     "aria_label_resume_live": "Poursuivre la diffusion en direct",
     "aria_label_play": "Lecture",

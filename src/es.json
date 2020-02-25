@@ -15,6 +15,7 @@
     "menu_close": "Cerrar el menú",
     "close_download_confirmation": "",
     "close_download_error": "",
+    "spacebar": "",
     "aria_label_live": "En vivo",
     "aria_label_resume_live": "Volver a la emisión en directo",
     "aria_label_play": "Reproducir",

@@ -15,6 +15,7 @@
     "menu_close": "Menü einklappen",
     "close_download_confirmation": "",
     "close_download_error": "",
+    "spacebar": "",
     "aria_label_live": "Live",
     "aria_label_resume_live": "Direktübertragung fortsetzen",
     "aria_label_play": "Abspielen",

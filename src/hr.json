@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Vrijeme svršetka – minute",
     "share_end_time_seconds": "Vrijeme svršetka – sekunde",
     "disclaimer_title": "Izjava o odricanju odgovornosti",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Usmeni prijevod ne predstavlja autentičan zapis procesa. Simultano prevođenje rasprava koje omogućuje Europski parlament služi samo za lakšu komunikaciju među sudionicima sjednice i ni u kojem slučaju ne predstavlja vjerodostojnu snimku rasprava.</p><p>Mjerodavan je isključivo izvorni govor ili revidirani pisani prijevod.</p><p>U slučaju razlike između simultanog prijevoda i izvornog govora (ili revidiranog pisanog prijevoda govora), prednost ima izvorni govor (ili revidirani pisani prijevod).</p><p>Bez izričitog dopuštenja Europskog parlamenta strogo je zabranjeno korištenje snimljenog usmenog prijevoda za bilo koju drugu svrhu osim one koja je gore navedena.</p>",
     "warning_push_notifications_disabled": "Proslijeđene obavijesti isključene su zbog pogreške. Ažuriranja u stvarnom vremenu možda neće ispravno funkcionirati.",
     "warning_push_notification_error_on_message": "Primljena je proslijeđena obavijest, ali je poruka izazvala pogrešku.",

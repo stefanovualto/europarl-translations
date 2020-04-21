@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Minute de fin",
     "share_end_time_seconds": "Seconde de fin",
     "disclaimer_title": "Clause de non-responsabilité",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>L'interprétation ne constitue en aucun cas un enregistrement authentifié des débats. L'interprétation simultanée des débats est fournie par le Parlement européen uniquement dans le but de faciliter la communication entre les participants à la réunion et ne constitue en aucun cas un enregistrement authentifié des débats.</p><p>Seul le discours original ou la traduction écrite révisée du discours font foi.</p><p>En cas de différence entre l'interprétation simultanée et le discours original (ou la traduction écrite révisée du discours), le discours original (ou la traduction écrite révisée) prévaut.</p><p>Sauf autorisation expresse du Parlement européen, l'utilisation de l'enregistrement de l'interprétation à des fins autres que celle mentionnée ci-dessus est strictement interdite.</p>",
     "warning_push_notifications_disabled": "Les notifications automatiques ont été désactivées suite à une erreur. Il se peut que vous ne receviez pas les informations en temps réel.",
     "warning_push_notification_error_on_message": "Une notification automatique a été reçue mais le message a provoqué une erreur.",

@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Minutul terminării",
     "share_end_time_seconds": "Secunda terminării",
     "disclaimer_title": "Avertisment",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Interpretarea nu constituie în nici un caz o înregistrare autentificată a dezbaterilor. Interpretarea simultană a dezbaterilor este asigurată de Parlamentul European numai în scopul facilitării comunicării între participanţii la reuniune şi nu constituie în niciun caz o înregistrare autentică a dezbaterilor.</p><p>Numai discursul original sau traducerea scrisă şi revizuită a discursului sunt considerate autentice.</p><p>În cazul unor diferenţe între interpretarea simultană şi discursul original (sau traducerea scrisă şi revizuită a discursului), discursul original (sau traducerea scrisă şi revizuită) prevalează.</p><p>Fără autorizarea expresă a Parlamentului European, utilizarea înregistrării interpretării în alte scopuri decât cel menţionat mai sus este strict interzisă.</p>",
     "warning_push_notifications_disabled": "Notificările push au fost dezactivate din cauza unei erori. E posibil ca actualizările în timp real să nu funcționeze corect.",
     "warning_push_notification_error_on_message": "S-a primit o notificare push, dar mesajul a generat o eroare.",

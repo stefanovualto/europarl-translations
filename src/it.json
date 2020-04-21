@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Minuto di conclusione",
     "share_end_time_seconds": "Secondo di conclusione",
     "disclaimer_title": "Clausola di non responsabilità",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Le registrazioni delle interpretazioni non rientrano nella documentazione ufficiale. L'interpretazione simultanea dei dibattiti è fornita dal Parlamento europeo con il solo scopo di facilitare la comunicazione tra i partecipanti alla riunione e non costituisce in alcun caso una registrazione autenticata dei dibattiti.</p><p>Solo il discorso originale o la traduzione scritta rivista del discorso fa fede.</p><p>In caso di divergenze tra l'interpretazione simultanea e il discorso originale (o la traduzione scritta rivista del discorso), il discorso originale (o la traduzione scritta rivista) prevale.</p><p>Salvo autorizzazione esplicita del Parlamento europeo, l'utilizzo della registrazione dell'interpretazione per scopi diversi da quello sopra enunciato è rigorosamente vietata.</p>",
     "warning_push_notifications_disabled": "Le notifiche push sono state disattivate a causa di un errore. Gli aggiornamenti in tempo reale potrebbero non funzionare correttamente.",
     "warning_push_notification_error_on_message": "È stata ricevuta una notifica push ma il messaggio ha provocato un errore.",

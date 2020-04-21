@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Am críochnaithe (nóiméad)",
     "share_end_time_seconds": "Am críochnaithe (soicind)",
     "disclaimer_title": "Séanadh",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Ní hionann an ateangaireacht agus taifead barántúil ar na himeachtaí. Is chun an chumarsáid i measc na rannpháirtithe sa chruinniú a éascú, agus chuige sin amháin, a chuireann Parlaimint na hEorpa ateangaireacht chomhuaineach ar na díospóireachtaí ar fáil. Ní hionann é agus taifead barántúil ar na himeachtaí.</p><p>Is í an óráid bhunaidh amháin, nó an t-aistriúchán scríofa athcheartaithe den óráid sin, atá barántúil.</p><p>Sa chás ina mbíonn aon difríocht idir an ateangaireacht chomhuaineach agus an óráid bhunaidh (nó an t-aistriúchán scríofa athcheartaithe den óráid sin), is ag an óráid bhunaidh (nó an t-aistriúchán scríofa athcheartaithe) atá an forlámhas.</p><p>Mura rud é go bhfuil sé údaraithe go sainráite ag Parlaimint na hEorpa, tá cosc ar an ateangaireacht taifeadta a úsáid chun aon chríocha seachas na gcríoch thuasluaite.</p>",
     "warning_push_notifications_disabled": "Tá brúfhógraí díchumasaithe toisc earráid a bheith ann. D’fhéadfadh sé nach n-oibreoidh nuashonrúcháin fíor-ama i gceart.",
     "warning_push_notification_error_on_message": "Fuarthas brúfhógra ach bhí an teachtaireacht ina cúis earráide.",

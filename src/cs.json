@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Čas konce: minuty",
     "share_end_time_seconds": "Čas konce: sekundy",
     "disclaimer_title": "Odmítnutí zodpovědnosti",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Tlumočení není autentickým záznamem jednání. Evropský parlament poskytuje simultánní tlumočení rozprav výhradně za účelem usnadnění komunikace mezi účastníky schůze a toto tlumočení v žádném případě není autentickým záznamem rozprav.</p><p>Za autentický se považuje pouze původní projev nebo revidovaný písemný překlad takového projevu.</p><p>V případě rozporu mezi simultánním tlumočením a původním projevem (nebo revidovaným písemným překladem tohoto projevu) má přednost původní projev (nebo jeho revidovaný písemný překlad).</p><p>S výjimkou výslovného povolení Evropského parlamentu je použití záznamu tlumočení k jiným účelům než těm, které jsou uvedeny výše, přísně zakázáno. </p>",
     "warning_push_notifications_disabled": "Z důvodu chyby byla vypnuta oznámení push notifications. Aktualizace v reálném čase nemusí správně fungovat.",
     "warning_push_notification_error_on_message": "Přišlo oznámení push notification, ale zpráva způsobila chybu.",

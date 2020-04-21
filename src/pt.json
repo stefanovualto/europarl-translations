@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Minutos de fim",
     "share_end_time_seconds": "Segundos de fim",
     "disclaimer_title": "Disclaimer",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>A interpretação não constitui um registo autenticado dos debates. A interpretação simultânea dos debates é facultada pelo Parlamento Europeu unicamente para facilitar a comunicação entre os participantes na reunião, não constituindo um registo autenticado dos debates.</p><p>Só o discurso original ou a tradução escrita revista do mesmo fazem fé.</p><p>Em caso de divergência entre a interpretação simultânea e o discurso original (ou a tradução escrita revista do mesmo), prevalece o discurso original (ou a respectiva tradução escrita revista).</p><p>Salvo autorização expressa do Parlamento Europeu, é estritamente proibida a utilização do registo da interpretação para fins diferentes dos acima mencionados.</p>",
     "warning_push_notifications_disabled": "As notificações automáticas foram desativadas devido a um erro. As atualizações em tempo real podem não funcionar corretamente.",
     "warning_push_notification_error_on_message": "Foi recebida uma notificação automática, mas a mensagem provocou um erro.",

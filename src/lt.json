@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Pabaigos laikas (minutės)",
     "share_end_time_seconds": "Pabaigos laikas (sekundės)",
     "disclaimer_title": "Atsakomybės apribojimas",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Vertimas žodžiu negali būti laikomas autentiška posėdžio stenograma.  Europos Parlamentas pateikia sinchroninį diskusijų vertimą tik norėdamas palengvinti posėdžio dalyvių bendravimą, ir šis vertimas jokiu būdu nėra laikomas autentišku diskusijų įrašu.</p><p>Autentišku laikomas tik kalbos originalas arba patikrintas jos vertimas.</p><p>Jei skiriasi sinchroninis vertimas ir kalbos originalas (ar patikrintas kalbos vertimas raštu), viršesnis yra kalbos originalas (ar patikrintas vertimas raštu).</p><p>Be aiškaus Europos Parlamento leidimo draudžiama naudoti vertimo žodžiu įrašus kitiems tikslams, nei čia nurodytieji tikslai.</p>",
     "warning_push_notifications_disabled": "Aktyvieji pranešimai išjungti dėl klaidos. Atnaujinimai realiuoju laiku gali veikti netinkamai.",
     "warning_push_notification_error_on_message": "Aktyvusis pranešimas gautas, tačiau dėl žinutės įvyko klaida.",

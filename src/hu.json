@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Befejezés, perc",
     "share_end_time_seconds": "Befejezés, másodperc",
     "disclaimer_title": "Jogi nyilatkozat",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>A tolmácsolás nem tekinthető az eljárás hiteles jegyzőkönyvének. Az Európai Parlament pusztán az ülés résztvevői közötti kommunikáció megkönnyítése érdekében biztosít szinkrontolmácsolást, az semmilyen körülmények között nem tekinthető a viták hiteles jegyzőkönyvének.</p><p>Csak az eredeti szöveg, illetve annak lektorált írásos fordítása hiteles.</p><p>Amennyiben a szinkrontolmácsolás (vagy a lektorált írásos fordítás) és az eredeti szöveg között eltérés tapasztalható, az eredeti szöveg (vagy a lektorált írásos fordítás) tekintendő hivatalosnak.</p><p>Az Európai Parlament külön engedélye nélkül szigorúan tilos a tolmácsolásról készült felvételt a fent említett céltól eltérő célra felhasználni.</p>",
     "warning_push_notifications_disabled": "Hiba következtében nem működnek a leküldéses értesítések. Lehet, hogy nem működnek megfelelően a valós idejű frissítések.",
     "warning_push_notification_error_on_message": "Leküldéses értesítés érkezett, de az üzenet hibát okozott.",

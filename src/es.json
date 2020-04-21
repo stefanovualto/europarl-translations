@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Minuto de fin",
     "share_end_time_seconds": "Segundo de fin",
     "disclaimer_title": "Cláusula de exención de responsabilidad",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>La interpretación no constituye en ningún caso una grabación autentificada de los debates. El Parlamento Europeo ofrece la interpretación simultánea de los debates con el único fin de facilitar la comunicación entre los participantes en la reunión y no constituye en ningún caso un registro autenticado de los debates.</p><p>Únicamente dan fe el discurso original o la traducción escrita revisada del mismo.</p><p>En caso de diferencia entre la interpretación simultánea y el discurso original (o la traducción escrita revisada del mismo), prevalecerá el discurso original (o su traducción escrita revisada). </p><p>Salvo autorización expresa del Parlamento Europeo, queda terminantemente prohibido utilizar la grabación de la interpretación para fines distintos del mencionado arriba.</p>",
     "warning_push_notifications_disabled": "Se han desactivado las notificaciones debido a un error. Las actualizaciones en tiempo real podrían no funcionar correctamente.",
     "warning_push_notification_error_on_message": "Se ha recibido una notificación pero el mensaje ha provocado un error.",

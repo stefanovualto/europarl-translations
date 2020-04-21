@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Beigu laiks: minūtes",
     "share_end_time_seconds": "Beigu laiks: sekundes",
     "disclaimer_title": "Saistību atruna",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Sēdes debašu mutvārdu tulkojums nav uzskatāms par autentisku.  Eiropas Parlamenta debašu sinhronā tulkojuma vienīgais mērķis ir vienkāršot sanāksmes dalībnieku saziņu, un tas nekādā gadījumā nav autentisks debašu ieraksts.</p><p>Tikai runas oriģināls vai rakstisks un rediģēts tās tulkojums ir autentisks.</p><p>Ja pastāv atšķirības starp sinhrono tulkojumu un runas oriģinālu (vai runas rakstisko rediģēto tulkojumu), pirmām kārtām jāņem vērā runas oriģināls (vai rakstiskais rediģētais tulkojums).</p><p>Bez Eiropas Parlamenta atļaujas ir stingri aizliegts izmantot tulkojuma ierakstu citiem mērķiem, nevis tam, kas šeit minēts.</p>",
     "warning_push_notifications_disabled": "Uznirstošie paziņojumi ir atspējoti kļūdas dēļ. Atjaunināšana reāllaikā var nedarboties pareizi.",
     "warning_push_notification_error_on_message": "Uznirstošais paziņojums ir saņemts, taču ziņojums izraisīja kļūdu.",

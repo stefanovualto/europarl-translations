@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Czas zakończenia – minuty",
     "share_end_time_seconds": "Czas zakończenia – sekundy",
     "disclaimer_title": "Nota",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Tłumaczenie ustne nie stanowi dokładnego zapisu obrad. Parlament Europejski zapewnia tłumaczenie ustne debat wyłącznie w celu ułatwienia komunikacji między uczestnikami posiedzenia. Tłumaczenie ustne w żadnym wypadku nie stanowi wiarygodnego zapisu posiedzenia.</p><p>Wiarygodnym źródłem jest wyłącznie oryginalne przemówienie lub jego tłumaczenie pisemne po korekcie.</p><p>W razie rozbieżności między tłumaczeniem ustnym a oryginalnym przemówieniem (lub jego tłumaczeniem pisemnym po korekcie) decyduje oryginalne przemówienie (lub jego tłumaczenie pismne po korekcie).</p><p>Wykorzystanie nagrania tłumaczenia ustnego do celów innych niż określony powyżej bez wyraźnego zezwolenia Parlamentu Europejskiego jest ściśle wzbronione.</p>",
     "warning_push_notifications_disabled": "Wysyłanie aktywnych powiadomień zostało wyłączone z powodu błędu. Aktualizacje w czasie rzeczywistym mogą nie działać prawidłowo.",
     "warning_push_notification_error_on_message": "Aktywne powiadomienie otrzymano, lecz wiadomość spowodowała błąd.",

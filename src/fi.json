@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Loppukohta minuutteina",
     "share_end_time_seconds": "Loppukohta sekunteina",
     "disclaimer_title": "Vastuuvapaus",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Tulkkaus ei muodosta virallista istuntoselostusta. Euroopan parlamentti on järjestänyt keskustelujen simultaanitulkkauksen ainoastaan kokouksen osanottajien välisen viestinnän helpottamiseksi. Nauhoitettu tulkkaus ei ole missään tapauksessa todistusvoimainen.</p><p>Ainoastaan alkuperäinen puhe tai puheen tarkistettu kirjallinen käännös ovat todistusvoimaisia.</p><p>Jos simultaanitulkkaus ja alkuperäinen puhe (tai puheen tarkistettu kirjallinen käännös) eroavat toisistaan, alkuperäinen puhe (tai puheen tarkistettu kirjallinen käännös) on ensisijainen.</p><p>Nauhoitetun tulkkauksen käyttäminen muussa kuin jäljempänä mainitussa tarkoituksessa on ehdottomasti kielletty ilman Euroopan parlamentin nimenomaista lupaa.</p>",
     "warning_push_notifications_disabled": "Push-ilmoitukset on estetty virheen takia. Reaaliaikaiset päivitykset eivät välttämättä toimi oikein.",
     "warning_push_notification_error_on_message": "On vastaanotettu push-ilmoitus, mutta viesti aiheutti virheen.",

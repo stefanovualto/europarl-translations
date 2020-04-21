@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Eindtijd: minuten",
     "share_end_time_seconds": "Eindtijd: seconden",
     "disclaimer_title": "Disclaimer",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>De vertolking vormt geen authentieke weergave van het debat. De simultaanvertolking van het debat wordt door het Europees Parlement alleen verstrekt om de communicatie tussen de deelnemers aan de vergadering te vergemakkelijken, en vormt in geen geval een authentieke weergave van het debat.</p><p>Alleen het originele gesproken woord en de gereviseerde schriftelijke vertaling daarvan zijn rechtsgeldig.</p><p>Indien het originele gesproken woord (of de gereviseerde schriftelijke vertaling) verschilt van de simultaanvertolking, geldt het originele gesproken woord (of de gereviseerde schriftelijke vertaling).</p><p>Behoudens uitdrukkelijke toestemming van het Europees Parlement is het gebruik van de opname van de vertolking voor andere dan de hierboven vermelde doeleinden strikt verboden.</p>",
     "warning_push_notifications_disabled": "De 'push notifications' zijn uitgezet als gevolg van een fout. De real-time updates werken mogelijkerwijs niet goed.",
     "warning_push_notification_error_on_message": "Een 'push notification' is ontvangen, maar het bericht heeft een fout veroorzaakt.",

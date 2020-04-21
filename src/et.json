@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Lõpuaeg (minutid)",
     "share_end_time_seconds": "Lõpuaeg (minutid)",
     "disclaimer_title": "Lõpetamine",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Suulist tõlget ei loeta istungi arutelude autentseks salvestiseks. Euroopa Parlamendi pakutav arutelude suuline tõlge on mõeldud ainult koosolekul osalejate suhtlemise lihtsustamiseks ning seda ei loeta mingil juhul arutelude autentseks salvestiseks.</p><p>Autentne on ainult originaalkõne või selle kontrollitud kirjalik tõlge.</p><p>Kui suuline tõlge erineb originaalkõnest (või selle kontrollitud kirjalikust tõlkest), on ülimuslik originaalkõne (või selle kontrollitud kirjalik tõlge).</p><p>Kui Euroopa Parlament ei ole selleks andnud selgesõnalist luba, on suulise tõlke salvestiste kasutamine muul kui ülalnimetatud otstarbel rangelt keelatud. </p>",
     "warning_push_notifications_disabled": "Vea tõttu on tõuketeavitused blokeeritud. Reaalajas uuendamisel võib esineda tõrkeid.",
     "warning_push_notification_error_on_message": "Saabus tõuketeavitus, kuid teade põhjustas vea.",

@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Endzeitpunkt (Minuten)",
     "share_end_time_seconds": "Endzeitpunkt (Sekunden)",
     "disclaimer_title": "Haftungsausschluss",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Die Verdolmetschung stellt keine authentische Aufzeichnung der Verhandlungen dar. Die Simultandolmetschung wird vom Europäischen Parlament für den alleinigen Zweck bereitgestellt, die Kommunikation zwischen den Sitzungsteilnehmern zu erleichtern, und stellt keine beglaubigte Aufzeichnung der Debatten dar.</p><p>Nur der Originalwortlaut oder die überprüfte schriftliche Übersetzung der Rede sind verbindlich.</p><p>Bei Abweichungen zwischen der Simultandolmetschung und dem Originalwortlaut der Rede (oder der überprüften schriftlichen Übersetzung der Rede) gilt der Originalwortlaut (oder die überprüfte schriftliche Übersetzung).</p><p>Die Verwendung der Aufzeichnung der Verdolmetschung für andere Zwecke als den vorstehend genannten ist strengstens untersagt, es sei denn, das Europäische Parlament hat dazu seine ausdrückliche Genehmigung erteilt.</p>",
     "warning_push_notifications_disabled": "Wegen eines Fehlers wurden Push-Benachrichtigungen deaktiviert. Echtzeitaktualisierungen funktionieren möglicherweise nicht ordnungsgemäß.",
     "warning_push_notification_error_on_message": "Es ist eine Push-Benachrichtigung eingegangen, durch die ein Fehler verursacht wurde.",

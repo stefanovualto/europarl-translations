@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Sluttidspunkt – minutter",
     "share_end_time_seconds": "Sluttidspunkt – sekunder",
     "disclaimer_title": "Ansvarsfraskrivelse",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Tolkningen udgør ikke en autentisk optagelse af forhandlingerne. Simultantolkningen af forhandlingerne, der stilles til rådighed af Europa-Parlamentet, har alene til formål at lette kommunikationen mellem mødedeltagerne og er under ingen omstændigheder en autentisk gengivelse af forhandlingerne.</p><p>Kun det oprindelige indlæg på originalsproget eller den reviderede skriftlige oversættelse heraf er autentisk.</p><p>I tilfælde af uoverensstemmelse mellem simultantolkningen og det oprindelige indlæg (eller den reviderede skriftlige oversættelse heraf) er det det oprindelige indlæg (eller den reviderede skriftlige oversættelse heraf), der gælder.</p><p>Anvendelse af optagelsen af tolkningen til andre formål end det ovenfor beskrevne er forbudt, medmindre Europa-Parlamentet udtrykkeligt har givet tilladelse dertil.</p>",
     "warning_push_notifications_disabled": "Pushmeddelelser er blevet deaktiveret på grund af en fejl. Opdateringer i realtid fungerer muligvis ikke korrekt.",
     "warning_push_notification_error_on_message": "Der er modtaget en pushmeddelelse, men budskabet skyldes en fejl.",

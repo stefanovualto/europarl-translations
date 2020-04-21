@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Minuta konca",
     "share_end_time_seconds": "Sekunda konca",
     "disclaimer_title": "Izjava o omejitvi odgovornosti",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Tolmačenje v nobenem primeru ni verodostojen zapis razprav. Evropski parlament omogoča simultano tolmačenje razprav, ki je namenjeno lažjemu sporazumevanju med udeleženci zasedanja, vendar to v nobenem primeru ni verodostojen zapis razprav.</p><p>Kot verodostojna dokumenta veljata le govor v izvirniku in pregledani pisni prevod govora v izvirniku.</p><p>Če se simultano tolmačenje in govor v izvirniku (ali pregledani pisni prevod govora v izvirniku) razlikujeta, je verodostojen govor v izvirniku (ali pregledani pisni prevod govora v izvirniku).</p><p>Uporaba zapisa tolmačenja za namene, ki se razlikujejo od zgoraj opisanih namenov, je strogo prepovedana, razen če je Evropski parlament izdal izrecno dovoljenje.</p>",
     "warning_push_notifications_disabled": "Potisna obvestila so bila onemogočena zaradi napake. Sprotno posodabljanje morda ne bo pravilno delovalo.",
     "warning_push_notification_error_on_message": "Potisno obvestilo je bilo prejeto, vendar je povzročilo napako.",

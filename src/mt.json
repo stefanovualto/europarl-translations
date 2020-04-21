@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Ħin tat-tmiem: minuti",
     "share_end_time_seconds": "Ħin tat-tmiem: sekondi",
     "disclaimer_title": "Dikjarazzjoni ta' ċaħda",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>L-interpretar fl-ebda każ ma jikkostitwixxi rrekordjar awtentiku tad-dibattiti. L-interpretar simultanju tad-dibattiti l-Parlament Ewropew jipprovdih bl-għan waħdieni li jiffaċiita l-komunikazzjoni bejn dawk li jieħdu sehem fil-laqgħat, u fl-ebda każ ma jikkostitwixxi reġsitrazzjoni awtentikata tad-dibattiti.</p><p>Huma awtentiċi biss id-diskors oriġinali jew it-traduzzjoni bil-miktub u riveduta tad-diskors.</p><p>F'każ ta' differenza bejn l-interpretar simultanju u d-diskors oriġinali (jew it-traduzzjoni bil-miktub u riveduta tad-diskors), il-prevalenza tingħata lid-diskors oriġinali (jew lit-traduzzjoni bil-miktub u riveduta tad-diskors) għandha.</p><p>Mingħajr awtorizzazzjoni espliċita min-naħa tal-Parlament Ewropew, l-użu ta' reġistrazzjoni tal-interpretar għal finjiet għajr dawk imsemmija hawn isfel huwa pprojbit.</p>",
     "warning_push_notifications_disabled": "In-notifiki \"push\" ġew diżattivati minħabba żball. L-aġġornamenti f'ħin reali jista' ma jaħdmux sew.",
     "warning_push_notification_error_on_message": "Waslet notifika \"push\" iżda l-messaġġ ikkawża żball.",

@@ -138,6 +138,7 @@
     "share_end_time_minutes": "Sluttid, minuter",
     "share_end_time_seconds": "Sluttid, sekunder",
     "disclaimer_title": "Ansvarsfriskrivning",
+    "disclaimer_covid": "",
     "disclaimer_body": "<p>Tolkning är inte en autentisk återgivning av ett sammanträde. Simultantolkningen av debatterna tillhandahålls av Europaparlamentet enbart i syfte att underlätta kommunikationen mellan sammanträdesdeltagarna och utgör inte någon auktoriserad återgivning av debatterna.</p><p>Endast det ursprungliga anförandet och den skriftliga översättningen av anförandet gäller.</p><p>Vid skillnader mellan simultantolkningen och det ursprungliga anförandet (eller den skriftliga översättningen av anförandet) gäller det ursprungliga anförandet (eller den skriftliga översättningen av anförandet).</p><p>Utan uttryckligt tillstånd från Europaparlamentet är användning av den inspelade tolkningen för andra ändamål än de som anges ovan strängt förbudet.</p>",
     "warning_push_notifications_disabled": "Pushnotiserna har stängts av på grund av ett fel. Direktuppdateringarna kanske inte fungerar som de ska.",
     "warning_push_notification_error_on_message": "En pushnotis togs emot men meddelandet orsakade ett fel.",
